@@ -23,6 +23,8 @@ class ViewController: UIViewController {
     @IBAction func onClick(sender: AnyObject) {
         print("Commited eedited")
         print("hjb ")
+        print("hjb ")
+
     }
 
 }
